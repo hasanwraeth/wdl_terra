@@ -1,9 +1,9 @@
 version: 1.2
 workflows:
   - subclass: WDL
-    primaryDescriptorPath: /wdl-101-bam.wdl
+    primaryDescriptorPath: wdl-101-bam.wdl
     # testParameterFiles:
-    #   - /optional.json
-authors:
-  - name: Hasan Al Reza
-    orcid: 0000-0002-9346-2217
+    #   - optional.json
+    authors:
+      - name: Hasan Al Reza
+        orcid: 0000-0002-9346-2217

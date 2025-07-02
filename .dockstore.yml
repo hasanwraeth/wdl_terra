@@ -4,5 +4,6 @@ workflows:
 primaryDescriptorPath: /wdl-101-bam.wdl
 # testParameterFiles:
 # - /optional.json
-authors: Hasan Al Reza
-- orcid: 0000-0002-9346-2217
+authors:
+  - name: Hasan Al Reza
+    orcid: 0000-0002-9346-2217
